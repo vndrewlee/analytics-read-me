@@ -5,6 +5,7 @@ Reference materials for [analysts](https://medium.com/@vndrewlee/the-analyst-s-o
 ## Data
 - [Tidy Data](https://www.jstatsoft.org/article/view/v059i10)
 - [Split Apply Combine](https://www.jstatsoft.org/article/view/v040i01/v40i01.pdf)
+- [Learn SQL](http://sqlbolt.com/)
 
 ## Hiring
 
