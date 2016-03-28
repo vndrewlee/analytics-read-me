@@ -1,13 +1,10 @@
 # analytics-read-me
 
-Reference materials for analysts
+Reference materials for [analysts](https://medium.com/@vndrewlee/the-analyst-s-oath-9ea7a56eb266#.9006zgybh)
 
-- [Engineering Effectiveness at Twitter [video]](https://www.youtube.com/watch?v=8IyXcLFO9ns&feature=youtu.be)
-- [Humane Development](https://ernie.io/2014/12/17/humane-development/)
-- [LET A 1,000 FLOWERS BLOOM. THEN RIP 999 OF THEM OUT BY THE ROOTS.](http://www.gigamonkeys.com/flowers/)
-- [tidy data](https://www.jstatsoft.org/article/view/v059i10)
-- [WTF at Khan Academy](https://medium.com/@mroth/wtf-just-happened-at-khan-academy-a840612930b#.lluagk8rt)
-
+## Data
+- [Tidy Data](https://www.jstatsoft.org/article/view/v059i10)
+- [Split Apply Combine](https://www.jstatsoft.org/article/view/v040i01/v40i01.pdf)
 
 ## Hiring
 
@@ -50,3 +47,9 @@ resume-blind work-sample process
 - [Daily Scrum Meeting aka Standup](https://www.mountaingoatsoftware.com/agile/scrum/daily-scrum)
 - [Github bootcamp (Getting started with Github)](https://help.github.com/categories/bootcamp/)
 - [You must try and then you must ask](https://blogs.akamai.com/2013/10/you-must-try-and-then-you-must-ask.html)
+- [Humane Development](https://ernie.io/2014/12/17/humane-development/)
+- [WTF at Khan Academy](https://medium.com/@mroth/wtf-just-happened-at-khan-academy-a840612930b#.lluagk8rt)
+
+## Unsorted / Inbox
+- [Engineering Effectiveness at Twitter [video]](https://www.youtube.com/watch?v=8IyXcLFO9ns&feature=youtu.be)
+- [LET A 1,000 FLOWERS BLOOM. THEN RIP 999 OF THEM OUT BY THE ROOTS.](http://www.gigamonkeys.com/flowers/)
