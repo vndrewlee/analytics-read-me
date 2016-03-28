@@ -3,8 +3,8 @@
 Reference materials for [analysts](https://medium.com/@vndrewlee/the-analyst-s-oath-9ea7a56eb266#.9006zgybh)
 
 ## Data
-- [Tidy Data](https://www.jstatsoft.org/article/view/v059i10)
-- [Split Apply Combine](https://www.jstatsoft.org/article/view/v040i01/v40i01.pdf)
+- [Hadley Wickham. *Tidy Data*](https://www.jstatsoft.org/article/view/v059i10)
+- [Hadley Wickham. *Split Apply Combine*](https://www.jstatsoft.org/article/view/v040i01/v40i01.pdf)
 - [Learn SQL](http://sqlbolt.com/)
 
 ## Hiring
