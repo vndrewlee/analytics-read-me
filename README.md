@@ -27,6 +27,7 @@ resume-blind work-sample process
 ## Science
 
 - [visual explnanation of markov chains](http://setosa.io/blog/2014/07/26/markov-chains/)
+- [The Monty Hall Problem](http://blog.vctr.me/monty-hall/)
 
 ## Tech
 
