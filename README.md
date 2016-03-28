@@ -37,6 +37,8 @@ resume-blind work-sample process
 - [Unix style shell commands](http://linuxcommand.org/)
 
 ## Viz
+- [Michael Bostock, Vadim Ogievetsky and Jeffrey Heer. *D3: Data-Driven Documents*](http://vis.stanford.edu/files/2011-D3-InfoVis.pdf)
+- [Hadley Wickham. *A Layered Grammar of Graphics*](http://byrneslab.net/classes/biol607/readings/wickham_layered-grammar.pdf)
 
 ## Books
 
