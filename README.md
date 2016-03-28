@@ -4,7 +4,7 @@ Reference materials for [analysts](https://medium.com/@vndrewlee/the-analyst-s-o
 
 ## Data
 - [Hadley Wickham. *Tidy Data*](https://www.jstatsoft.org/article/view/v059i10)
-- [Hadley Wickham. *Split Apply Combine*](https://www.jstatsoft.org/article/view/v040i01/v40i01.pdf)
+- [Hadley Wickham. *The Split-Apply-Combine Strategy for Data Analysis*](https://www.jstatsoft.org/article/view/v040i01/v40i01.pdf)
 - [Learn SQL](http://sqlbolt.com/)
 
 ## Hiring
