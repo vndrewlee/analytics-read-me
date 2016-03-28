@@ -32,9 +32,9 @@ resume-blind work-sample process
 
 ## Tech
 
-- [Python list comprehension](https://gist.github.com/bearfrieze/a746c6f12d8bada03589)
 - [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
 - [Unix style shell commands](http://linuxcommand.org/)
+- [PEP 0008 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 
 ## Viz
 - [Michael Bostock, Vadim Ogievetsky and Jeffrey Heer. *D3: Data-Driven Documents*](http://vis.stanford.edu/files/2011-D3-InfoVis.pdf)
