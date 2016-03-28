@@ -34,7 +34,7 @@ resume-blind work-sample process
 
 ## Science
 
-[visual explnanation of markov chains](http://setosa.io/blog/2014/07/26/markov-chains/)
+- [visual explnanation of markov chains](http://setosa.io/blog/2014/07/26/markov-chains/)
 
 ## Tech
 
@@ -42,4 +42,11 @@ resume-blind work-sample process
 - [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
 - [Learn shell commands](http://linuxcommand.org/)
 - [The Hitchhiker’s Guide to Python](http://docs.python-guide.org/en/latest/)
+
+## Viz
+
+## Books
+
+- [Richards, Chet. *Certain to Win: The Strategy of John Boyd, Applied to Business*](http://www.amazon.com/Certain-Win-Strategy-Applied-Business/dp/1413453767/)
+- [Ohno, Taiichi. *Toyota Production System: Beyond Large-Scale Production 1St Edition Edition*](http://www.amazon.com/Toyota-Production-System-Beyond-Large-Scale/dp/0915299143/)
 
