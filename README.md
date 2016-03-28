@@ -1,6 +1,6 @@
 # analytics-read-me
-Reference materials for analysts
 
+Reference materials for analysts
 
 [LET A 1,000 FLOWERS BLOOM. THEN RIP 999 OF THEM OUT BY THE ROOTS.](http://www.gigamonkeys.com/flowers/)
 
@@ -12,29 +12,25 @@ Reference materials for analysts
 
 [Humane Development](https://ernie.io/2014/12/17/humane-development/)
 
-http://linuxcommand.org/
-
-[The Hitchhiker’s Guide to Python](http://docs.python-guide.org/en/latest/)
-
 [tidy data](https://www.jstatsoft.org/article/view/v059i10)
 
-[engineer moneyball](http://danluu.com/programmer-moneyball/)
+## Hiring
 
-[hn comment related to moneyball and itnerview process](https://news.ycombinator.com/item?id=7260087)
+resume-blind work-sample process
 
-Hired through a resume-blind work-sample process.
-
-[mozilla's nice ass job ad](https://medium.com/come-in-we-re-hiring/mozilla-s-nearly-flawless-job-ad-and-why-5b11b3e0489#.o1msxs1t8)
+- [mozilla's nice ass job ad](https://medium.com/come-in-we-re-hiring/mozilla-s-nearly-flawless-job-ad-and-why-5b11b3e0489#.o1msxs1t8)
+- [hn comment related to moneyball and itnerview process](https://news.ycombinator.com/item?id=7260087)
+- [engineer moneyball](http://danluu.com/programmer-moneyball/)
 
 ## Publishers
 
-http://www.iab.com/wp-content/uploads/2016/03/IABTechLab_Publisher_AdBlocking_Primer.pdf
+- [IAB Tech Lab Publisher Ad Blocking Primer](http://www.iab.com/wp-content/uploads/2016/03/IABTechLab_Publisher_AdBlocking_Primer.pdf)
 
 ## Marketing Reserach
 
-http://www.edisonresearch.com/the-infinite-dial-2016/
-
-[reddit cohort analysis](http://arxiv.org/pdf/1603.07025v1.pdf)
+- [the infinite dial 2016, digitas audio behaviors](http://www.edisonresearch.com/the-infinite-dial-2016/)
+- [Averaging Gone Wrong: Using Time-Aware Analyses to Better Understand Behavior (Reddit cohort analysis)](http://arxiv.org/pdf/1603.07025v1.pdf)
+- [A Comparison of Approaches to Advertising Measurement: Evidence from Big Field Experiments at Facebook](http://www.kellogg.northwestern.edu/faculty/gordon_b/files/kellogg_fb_whitepaper.pdf)
 
 ## Science
 
@@ -42,7 +38,8 @@ http://www.edisonresearch.com/the-infinite-dial-2016/
 
 ## Tech
 
-[list comprehension](https://gist.github.com/bearfrieze/a746c6f12d8bada03589)
-
-[The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
+- [list comprehension](https://gist.github.com/bearfrieze/a746c6f12d8bada03589)
+- [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
+- [Learn shell commands](http://linuxcommand.org/)
+- [The Hitchhiker’s Guide to Python](http://docs.python-guide.org/en/latest/)
 
