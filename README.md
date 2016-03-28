@@ -25,3 +25,24 @@ http://linuxcommand.org/
 Hired through a resume-blind work-sample process.
 
 [mozilla's nice ass job ad](https://medium.com/come-in-we-re-hiring/mozilla-s-nearly-flawless-job-ad-and-why-5b11b3e0489#.o1msxs1t8)
+
+## Publishers
+
+http://www.iab.com/wp-content/uploads/2016/03/IABTechLab_Publisher_AdBlocking_Primer.pdf
+
+## Marketing Reserach
+
+http://www.edisonresearch.com/the-infinite-dial-2016/
+
+[reddit cohort analysis](http://arxiv.org/pdf/1603.07025v1.pdf)
+
+## Science
+
+[visual explnanation of markov chains](http://setosa.io/blog/2014/07/26/markov-chains/)
+
+## Tech
+
+[list comprehension](https://gist.github.com/bearfrieze/a746c6f12d8bada03589)
+
+[The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest/)
+
