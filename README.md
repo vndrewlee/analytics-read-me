@@ -9,11 +9,10 @@ Reference materials for [analysts](https://medium.com/@vndrewlee/the-analyst-s-o
 
 ## Hiring
 
-resume-blind work-sample process
-
 - [engineer moneyball](http://danluu.com/programmer-moneyball/)
 - [hn comment related to moneyball and itnerview process](https://news.ycombinator.com/item?id=7260087)
 - [mozilla's nice ass job ad](https://medium.com/come-in-we-re-hiring/mozilla-s-nearly-flawless-job-ad-and-why-5b11b3e0489#.o1msxs1t8)
+- [The Joel Test: 12 Steps To Better Tech Interviewing](https://gist.github.com/tqbf/f5942926d90d998b0858)
 
 ## Publishers
 
