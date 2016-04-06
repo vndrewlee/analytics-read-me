@@ -56,3 +56,5 @@ Reference materials for [analysts](https://medium.com/@vndrewlee/the-analyst-s-o
 ## Unsorted / Inbox
 - [Engineering Effectiveness at Twitter [video]](https://www.youtube.com/watch?v=8IyXcLFO9ns&feature=youtu.be)
 - [LET A 1,000 FLOWERS BLOOM. THEN RIP 999 OF THEM OUT BY THE ROOTS.](http://www.gigamonkeys.com/flowers/)
+- [Google DoubleClick Log Files Specs](http://cl.ly/1v3n081k0j1m/2013_dcm_dt_files.pdf)
+- [DTM Cheat Sheet / Variable Guide](http://jimalytics.com/tag-management/dynamic-tag-manager-dtm-cheat-sheet/)
