@@ -2,6 +2,9 @@
 
 Reference materials for [analysts](https://medium.com/@vndrewlee/the-analyst-s-oath-9ea7a56eb266#.9006zgybh)
 
+## Analysis
+- Beunza, Daniel and Garud, Raghu (2007) Calculators, lemmings or frame-makers? the intermediary role of securities analysts. The Sociological Review, 55 (s2). pp. 13-39. ISSN 0038-0261
+
 ## Data
 - [Hadley Wickham. *Tidy Data*](https://www.jstatsoft.org/article/view/v059i10)
 - [Hadley Wickham. *The Split-Apply-Combine Strategy for Data Analysis*](https://www.jstatsoft.org/article/view/v040i01/v40i01.pdf)
