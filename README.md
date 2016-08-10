@@ -26,6 +26,8 @@ Reference materials for [analysts](https://medium.com/@vndrewlee/the-analyst-s-o
 - [A Comparison of Approaches to Advertising Measurement: Evidence from Big Field Experiments at Facebook](http://www.kellogg.northwestern.edu/faculty/gordon_b/files/kellogg_fb_whitepaper.pdf)
 - [Averaging Gone Wrong: Using Time-Aware Analyses to Better Understand Behavior (Reddit cohort analysis)](http://arxiv.org/pdf/1603.07025v1.pdf)
 - [the infinite dial 2016, digitas audio behaviors](http://www.edisonresearch.com/the-infinite-dial-2016/)
+- [Social Influence in Social Advertising: Evidence from Field Experiments](http://arxiv.org/pdf/1206.4327)
+- [Designing and Deploying Online Field Experiments](http://arxiv.org/pdf/1409.3174)
 
 ## Science
 
