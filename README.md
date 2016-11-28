@@ -28,6 +28,7 @@ Reference materials for [analysts](https://medium.com/@vndrewlee/the-analyst-s-o
 - [the infinite dial 2016, digitas audio behaviors](http://www.edisonresearch.com/the-infinite-dial-2016/)
 - [Social Influence in Social Advertising: Evidence from Field Experiments](http://arxiv.org/pdf/1206.4327)
 - [Designing and Deploying Online Field Experiments](http://arxiv.org/pdf/1409.3174)
+- [Facebook Ads, Audience Insights](https://www.facebook.com/ads/audience-insights/)
 
 ## Science
 
