@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #
-# analytics_readme documentation build configuration file, created by
-# sphinx-quickstart on Sun Apr 23 18:39:07 2017.
+# analytics-readme documentation build configuration file, created by
+# sphinx-quickstart on Sun Apr 23 19:23:57 2017.
 #
 # This file is execfile()d with the current directory set to its
 # containing dir.
@@ -31,7 +31,7 @@
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['sphinx.ext.githubpages']
+extensions = []
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -46,7 +46,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'analytics_readme'
+project = 'analytics-readme'
 copyright = '2017, Andrew Lee'
 author = 'Andrew Lee'
 
@@ -100,7 +100,7 @@ html_static_path = ['_static']
 # -- Options for HTMLHelp output ------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'analytics_readmedoc'
+htmlhelp_basename = 'analytics-readmedoc'
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -127,7 +127,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'analytics_readme.tex', 'analytics\\_readme Documentation',
+    (master_doc, 'analytics-readme.tex', 'analytics-readme Documentation',
      'Andrew Lee', 'manual'),
 ]
 
@@ -137,7 +137,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'analytics_readme', 'analytics_readme Documentation',
+    (master_doc, 'analytics-readme', 'analytics-readme Documentation',
      [author], 1)
 ]
 
@@ -148,8 +148,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'analytics_readme', 'analytics_readme Documentation',
-     author, 'analytics_readme', 'One line description of project.',
+    (master_doc, 'analytics-readme', 'analytics-readme Documentation',
+     author, 'analytics-readme', 'One line description of project.',
      'Miscellaneous'),
 ]
 

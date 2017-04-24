@@ -4,9 +4,9 @@
 # You can set these variables from the command line.
 SPHINXOPTS    =
 SPHINXBUILD   = sphinx-build
-SPHINXPROJ    = analytics_readme
+SPHINXPROJ    = analytics-readme
 SOURCEDIR     = .
-BUILDDIR      = ../docs/
+BUILDDIR      = _build
 
 # Put it first so that "make" without argument is like "make help".
 help:
