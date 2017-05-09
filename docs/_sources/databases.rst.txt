@@ -1,6 +1,20 @@
-Building and working with Databases
-===================================
+Organizing data and making it available
+=======================================
 
-* Structured vs Unstructured data
-* SQL engine choices
-* Connecting to a database
+Organizing Data
+---------------
+Structured vs Unstructured data
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Tables vs key-value pairs.
+
+Schema
+^^^^^^
+How tables relate to one another.
+
+Datawarehouse
+-------------
+databases, data lakes, cold storage
+
+SQL engines
+^^^^^^^^^^^
+PostgrSQL or MySQL. SQLite is cool.
