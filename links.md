@@ -55,6 +55,7 @@ Reference materials for [analysts](https://medium.com/@vndrewlee/the-analyst-s-o
 
 - [Daily Scrum Meeting aka Standup](https://www.mountaingoatsoftware.com/agile/scrum/daily-scrum)
 - [Github bootcamp (Getting started with Github)](https://help.github.com/categories/bootcamp/)
+- [Try Git](https://try.github.io)
 - [You must try and then you must ask](https://blogs.akamai.com/2013/10/you-must-try-and-then-you-must-ask.html)
 - [Humane Development](https://ernie.io/2014/12/17/humane-development/)
 - [WTF at Khan Academy](https://medium.com/@mroth/wtf-just-happened-at-khan-academy-a840612930b#.lluagk8rt)
